@@ -1,2 +1,2 @@
 # WebAppUI
-The front end portion of the repo
+The front end portion of the Application
